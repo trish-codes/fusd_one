@@ -1,8 +1,4 @@
-/* -------------------------------- 
-
-Primary style
-
--------------------------------- */
+/* ------------Primary style------------ */
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -34,11 +30,7 @@ button {
   cursor: pointer;
 }
 
-/* -------------------------------- 
-
- Header
-
--------------------------------- */
+/* ----------------Header----------------- */
 .logo, .nav-trigger {
   position: absolute;
   z-index: 3;
@@ -178,11 +170,7 @@ button {
   transform: translateX(-5px) translateY(-3px) rotate(-45deg) scaleX(0.5);
 }
 
-/* -------------------------------- 
-
- Navigation
-
--------------------------------- */
+/* ---------------Navigation------------- */
 .primary-nav {
   position: absolute;
   z-index: 1;
@@ -274,11 +262,7 @@ button {
   }
 }
 
-/* -------------------------------- 
-
- Projects
-
--------------------------------- */
+/* ----------------Projects---------------- */
 .projects-container {
   height: 100%;
   width: 100vw;
@@ -638,11 +622,7 @@ button {
     transform: translateX(-50%);
   }
 }
-/* -------------------------------- 
-
- Support for no js 
-
--------------------------------- */
+/* ----------------Support for no js ---------------------- */
 .no-js .nav-trigger, .no-js .scroll {
   display: none;
 }
@@ -733,11 +713,7 @@ button {
 }
 
 
-/* -------------------------------- 
-
-Form
-
--------------------------------- */
+/* ----------------Form------------------ */
 .form {
   width: 90%;
   max-width: 600px;
