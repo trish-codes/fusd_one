@@ -8,11 +8,10 @@ html {
 }
 
 body {
-  font-size: 2.6rem;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   color: #2978A0;
   background-color: #253031;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 html, body {
